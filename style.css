@@ -1,0 +1,173 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container1 {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    
+}
+.content{
+    display:inline;
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+
+
+}
+
+
+/* text */
+.container1-text {
+    margin: 100px 145px;
+   
+    position: static;
+    /* display: block; */
+    
+
+
+}
+.container1 h1{
+    margin-top: 100px;
+}
+
+/* iphone image */
+.image {
+
+float: right;
+margin-right: 200px;
+margin-top: 4px;
+position: static;
+
+
+    /* margin-left: 600px;
+    margin:40px;
+    text-align: right; */
+}
+.container1-button {
+    background-color: aqua;
+    color: azure;
+    margin-top: 4px;
+    border: none;
+    border-radius: 27px;
+    padding: 10px;
+    width: 110px;
+    font-size: 16px;
+
+}
+
+.container2 {
+    background-image: url(images/bg.jpg);
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.cont2-h1 {
+    color: #40a996
+}
+
+.box1 {
+
+    display: inline-block;
+    margin: 20px;
+    margin-top: 100px;
+    color: white;
+
+}
+
+.box2 {
+    
+    display: inline-block;
+    margin: 20px;
+    color: white;
+
+}
+
+.box3 {
+    
+    display: inline-block;
+    margin: 20px;
+    color: white;
+    
+}
+
+/* Third container */
+.container-3 {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    
+}
+
+/* Thrid container button */
+.cont3-button {
+    background-color: aqua;
+    color: azure;
+    margin-top: 4px;
+    border: none;
+    border-radius: 27px;
+    padding: 10px;
+    width: 130px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.container3-h1 {
+
+    margin-top: 50px;
+}
+
+.cont3-text {
+    margin: 3px;
+}
+/* Fourth container */
+.container4{
+    background-image: url(images/9c9179da-f4b4-408c-b96a-53db6954f59f.jpg);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    
+  
+    
+
+ 
+}
+.cont4-h1{
+    margin-top: 10px;
+
+}
+.cont4-text{
+    
+    margin: 20px;
+    /* border: 1px solid black; */
+}
+.box4{
+    display: inline-block;
+    border: 2px dashed rgb(225, 225, 225);
+    padding: 80px;
+    margin: 10px;
+    margin-top: 75px;
+    width: 300px;
+    font-size: 25px;
+    color: rgb(225, 225, 225) ;
+    
+
+
+    
+}
+.box5{
+    display: inline-block;
+   border: 2px dashed rgb(225, 225, 225);
+   padding: 80px;
+   margin: 10px;
+   width: 300px;
+   font-size: 25px;
+   color: white;
+   box-sizing: border-box;
+}
